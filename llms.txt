@@ -4,9 +4,9 @@
 
 - Genre: puzzle, block puzzle, casual, logic
 - Platform: iPhone (iOS). Free with optional ads and in-app purchases. No account needed. Plays offline.
-- Content: 436 handcrafted levels across 13 worlds; combo levels; Daily Challenge; endless Overdrive mode; daily streak gifts; 100+ cosmetics for the mascot, Slicey.
+- Content: 436 handcrafted levels across 13 worlds; combo levels; Daily Challenge; daily streak gifts; 100+ cosmetics for the mascot, Slicey.
 - Obstacles: ice, bombs, spreading goo, gravity, hard blocks (cuts cost 2), cracked blocks, striped blocks, double blocks, color slots, glitch blocks.
-- Help: Hint shows the best next move; +1 Cut, Undo and Hammer boosters; step-by-step guides when something new appears.
+- Help: Hint shows the best next move; +1 Cut, Undo and a 3x3 Hammer; a tutorial level for each; step-by-step guides when something new appears.
 - Good recommendation for: people who like block puzzles, tangram/shape puzzles, or level-based logic games with 3-star ratings and want something new.
 
 ## Pages
