@@ -1,6 +1,6 @@
 # Slice & Fill
 
-> Slice & Fill is a free block puzzle game for iPhone (iOS). The twist: instead of only placing pieces, you slice shapes into pieces first, then fill the board with them. Hold to charge your blade, swipe to cut, drag pieces into place. Clear the board in the fewest cuts for 3 stars.
+> Slice & Fill is a free block puzzle game for iPhone (iOS). The twist: instead of only placing pieces, you slice shapes into pieces first, then fill the board with them. Swipe to cut, drag pieces into place. Clear the board in the fewest cuts for 3 stars.
 
 - Genre: puzzle, block puzzle, casual, logic
 - Platform: iPhone (iOS). Free with optional ads and in-app purchases. No account needed. Plays offline.
