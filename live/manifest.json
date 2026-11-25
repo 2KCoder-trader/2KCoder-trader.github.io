@@ -1,0 +1,112 @@
+{
+  "levels": {
+    "count": 436,
+    "sha256": "57902bbe6fe5a8eab735bae535a7907df72eb79e4dfca592abb9b2cfaca7ce2d",
+    "size": 455448,
+    "url": "https://2kcoder-trader.github.io/live/levels-1.sfl",
+    "version": 1
+  },
+  "min_app": "1.1",
+  "schema": 1,
+  "tuning": {
+    "ad_booster": 1,
+    "ad_boosters_per_day": 10,
+    "ad_draws_per_day": 5,
+    "bonus_ad_coins": 50,
+    "daily_clear_coins": 100,
+    "flags": {
+      "bonus_ad": true,
+      "coach_nudges": true,
+      "daily": true,
+      "live_levels": true,
+      "quests": true,
+      "streak_popup": true
+    },
+    "hint_idle_s": 14.0,
+    "nudge_s": 9.0,
+    "quest_chest": 1,
+    "quest_chest_coins": 50,
+    "quest_coins": [
+      30,
+      50,
+      80
+    ],
+    "quest_pool": [
+      {
+        "n": 3,
+        "tier": 0,
+        "type": "levels"
+      },
+      {
+        "n": 12,
+        "tier": 0,
+        "type": "lines"
+      },
+      {
+        "n": 1,
+        "tier": 0,
+        "type": "daily"
+      },
+      {
+        "n": 1,
+        "tier": 0,
+        "type": "booster"
+      },
+      {
+        "n": 6,
+        "tier": 1,
+        "type": "stars"
+      },
+      {
+        "n": 20,
+        "tier": 1,
+        "type": "lines"
+      },
+      {
+        "n": 1,
+        "tier": 1,
+        "type": "cols"
+      },
+      {
+        "n": 1,
+        "tier": 1,
+        "type": "mixed"
+      },
+      {
+        "n": 5,
+        "tier": 1,
+        "type": "levels"
+      },
+      {
+        "n": 2,
+        "tier": 2,
+        "type": "three"
+      },
+      {
+        "n": 2,
+        "tier": 2,
+        "type": "par"
+      },
+      {
+        "n": 10,
+        "tier": 2,
+        "type": "stars"
+      }
+    ],
+    "shop_ad_coins": 50,
+    "spares": [
+      0,
+      0,
+      0
+    ],
+    "streak_coins": [
+      50,
+      50,
+      75,
+      75,
+      100,
+      100,
+      200
+    ]
+  }
+}
